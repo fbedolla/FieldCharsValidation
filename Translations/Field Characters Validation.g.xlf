@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Field Characters Validation">
+    <body>
+      <group id="body">
+        <trans-unit id="TableExtension 3982023864 - NamedType 3303194977" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 3982023864">
+          <source>You cannot use special characters in this field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV Bank Ext - NamedType SpecialCharsErr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3982023864 - Method 1551715603 - NamedType 1498604762" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 3982023864">
+          <source>°|!|"|#|$|%|/|(|)|=|?|¡|¿|´|+|¨|*|{|}|[|]|-|_</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV Bank Ext - Method checkSpecialCharstext - NamedType SpecChars</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4224637751 - NamedType 3303194977" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 4224637751">
+          <source>You cannot use special characters in this field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV CustBankExt - NamedType SpecialCharsErr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4224637751 - Method 1551715603 - NamedType 1498604762" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 4224637751">
+          <source>°|!|"|#|$|%|/|(|)|=|?|¡|¿|´|+|¨|*|{|}|[|]|-|_</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV CustBankExt - Method checkSpecialCharstext - NamedType SpecChars</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1656917805 - NamedType 3303194977" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1656917805">
+          <source>You cannot use special characters in this field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV CustExt - NamedType SpecialCharsErr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1656917805 - Method 1209555499 - NamedType 1498604762" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1656917805">
+          <source>°|!|"|#|$|%|/|(|)|=|?|¡|¿|´|+|¨|*|{|}|[|]|-|_| |.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV CustExt - Method checkSpecialCharsCode - NamedType SpecChars</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1656917805 - Method 1551715603 - NamedType 1498604762" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1656917805">
+          <source>°|!|"|#|$|%|/|(|)|=|?|¡|¿|´|+|¨|*|{|}|[|]|-|_</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV CustExt - Method checkSpecialCharstext - NamedType SpecChars</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1901743672 - NamedType 3303194977" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1901743672">
+          <source>You cannot use special characters in this field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV CustShipToAddress Ext - NamedType SpecialCharsErr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1901743672 - Method 1551715603 - NamedType 1498604762" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1901743672">
+          <source>°|!|"|#|$|%|/|(|)|=|?|¡|¿|´|+|¨|*|{|}|[|]|-|_</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV CustShipToAddress Ext - Method checkSpecialCharstext - NamedType SpecChars</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2713583420 - NamedType 3303194977" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 2713583420">
+          <source>You cannot use special characters in this field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV GLAccExt - NamedType SpecialCharsErr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2713583420 - Method 1551715603 - NamedType 1498604762" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 2713583420">
+          <source>°|!|"|#|$|%|/|(|)|=|?|¡|¿|´|+|¨|*|{|}|[|]|-|_</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV GLAccExt - Method checkSpecialCharstext - NamedType SpecChars</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 322470447 - NamedType 3303194977" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 322470447">
+          <source>You cannot use special characters in this field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV VendBankExt - NamedType SpecialCharsErr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 322470447 - Method 1551715603 - NamedType 1498604762" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 322470447">
+          <source>°|!|"|#|$|%|/|(|)|=|?|¡|¿|´|+|¨|*|{|}|[|]|-|_</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV VendBankExt - Method checkSpecialCharstext - NamedType SpecChars</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2685076786 - NamedType 3303194977" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 2685076786">
+          <source>You cannot use special characters in this field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV VendorExt - NamedType SpecialCharsErr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2685076786 - Method 1209555499 - NamedType 1498604762" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 2685076786">
+          <source>°|!|"|#|$|%|/|(|)|=|?|¡|¿|´|+|¨|*|{|}|[|]|-|_|.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV VendorExt - Method checkSpecialCharsCode - NamedType SpecChars</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2685076786 - Method 1551715603 - NamedType 1498604762" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 2685076786">
+          <source>°|!|"|#|$|%|/|(|)|=|?|¡|¿|´|+|¨|*|{|}|[|]|-|_</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension FCV VendorExt - Method checkSpecialCharstext - NamedType SpecChars</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1644763789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FCV Permset</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet FCV Permset - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
